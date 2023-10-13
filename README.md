@@ -38,7 +38,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michag7&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michag7&layout=compact&theme=tokyonight)](https://github.com/michag7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michag7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
