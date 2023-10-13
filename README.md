@@ -44,5 +44,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/michel-andrey-gallo-perez-457412197"><img src="https://img.shields.io/badge/-Michel%20Perez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:maicolgallo1000@gmail.com"><img src="https://img.shields.io/badge/-maicolgallo1000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:maicolgallo1000%40gmail.com"><img src="https://img.shields.io/badge/-maicolgallo1000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/michaelp_ssj"><img src="https://img.shields.io/badge/-@michaelp_ssj-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
