@@ -9,7 +9,7 @@
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.\
 ✍️ &nbsp;En mi tiempo libre, me dedico a leer foros y noticias sobre IA.\
 💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a maicolgallo1000@gmail.com! Intentaré responder tan pronto como pueda.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a maicolgallo1000@gmail.com! Intentaré responder tan pronto como pueda.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
