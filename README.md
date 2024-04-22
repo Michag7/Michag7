@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estoy en mi ultimo semestre de Tecnología en Sistemas de Información en la Universidad del Valle y terminando un curso Análisis de Datos de Google.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura de Nube.\
 ✍️ &nbsp;En mi tiempo libre, me dedico a leer foros y noticias sobre IA.\
 💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.\
